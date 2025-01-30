@@ -1,0 +1,161 @@
+customer_id,customer_name,country_code,email
+CS-1,John Smith,CN-1,johncs-1xxxgmail.com
+CS-2,Sarah Johnson,CN-1,saracs-2xxxgmail.com
+CS-3,James Williams,CN-1,jamecs-3xxxgmail.com
+CS-4,Mary Brown,CN-1,marycs-4xxxgmail.com
+CS-5,Michael Taylor,CN-1,michcs-5xxxgmail.com
+CS-6,Emily Anderson,CN-1,emilcs-6xxxgmail.com
+CS-7,David Thomas,CN-1,davics-7xxxgmail.com
+CS-8,Jennifer Jackson,CN-1,jenncs-8xxxgmail.com
+CS-9,William White,CN-1,willcs-9xxxgmail.com
+CS-10,Patricia Harris,CN-1,patrcs-10xxxgmail.com
+CS-11,Christopher Martin,CN-1,chrics-11xxxgmail.com
+CS-12,Elizabeth Clark,CN-1,elizcs-12xxxgmail.com
+CS-13,Daniel Lewis,CN-1,danics-13xxxgmail.com
+CS-14,Susan Walker,CN-1,susacs-14xxxgmail.com
+CS-15,Matthew Hall,CN-1,mattcs-15xxxgmail.com
+CS-16,Jessica Allen,CN-1,jesscs-16xxxgmail.com
+CS-17,Anthony Young,CN-1,anthcs-17xxxgmail.com
+CS-18,Kimberly King,CN-1,kimbcs-18xxxgmail.com
+CS-19,Robert Wright,CN-1,robecs-19xxxgmail.com
+CS-20,Linda Scott,CN-1,lindcs-20xxxgmail.com
+CS-21,Joseph Green,CN-1,josecs-21xxxgmail.com
+CS-22,Laura Adams,CN-1,laurcs-22xxxgmail.com
+CS-23,Thomas Baker,CN-1,thomcs-23xxxgmail.com
+CS-24,Nancy Gonzalez,CN-1,nanccs-24xxxgmail.com
+CS-25,Richard Nelson,CN-1,richcs-25xxxgmail.com
+CS-26,Michael Johnson,CN-1,michcs-26xxxgmail.com
+CS-27,Sarah Lee,CN-1,saracs-27xxxgmail.com
+CS-28,James Martinez,CN-1,jamecs-28xxxgmail.com
+CS-29,Linda Brown,CN-1,lindcs-29xxxgmail.com
+CS-30,David Harris,CN-1,davics-30xxxgmail.com
+CS-31,Jennifer Clark,CN-1,jenncs-31xxxgmail.com
+CS-32,Robert White,CN-1,robecs-32xxxgmail.com
+CS-33,Elizabeth Allen,CN-1,elizcs-33xxxgmail.com
+CS-34,William Scott,CN-1,willcs-34xxxgmail.com
+CS-35,Jessica Carter,CN-1,jesscs-35xxxgmail.com
+CS-36,Aarav Sharma,CN-2,aaracs-36xxxgmail.com
+CS-37,Priya Patel,CN-2,priycs-37xxxgmail.com
+CS-38,Ramesh Kumar,CN-2,ramecs-38xxxgmail.com
+CS-39,Neha Gupta,CN-2,nehacs-39xxxgmail.com
+CS-40,Vijay Mehta,CN-2,vijacs-40xxxgmail.com
+CS-41,Anjali Singh,CN-2,anjacs-41xxxgmail.com
+CS-42,Rohit Verma,CN-2,rohics-42xxxgmail.com
+CS-43,Aishwarya Desai,CN-2,aishcs-43xxxgmail.com
+CS-44,Manoj Yadav,CN-2,manocs-44xxxgmail.com
+CS-45,Sakshi Joshi,CN-2,sakscs-45xxxgmail.com
+CS-46,Sandeep Reddy,CN-2,sandcs-46xxxgmail.com
+CS-47,Shubham Agarwal,CN-2,shubcs-47xxxgmail.com
+CS-48,Pooja Chauhan,CN-2,poojcs-48xxxgmail.com
+CS-49,Amit Shah,CN-2,amitcs-49xxxgmail.com
+CS-50,Rajesh Kumar,CN-2,rajecs-50xxxgmail.com
+CS-51,Simran Kaur,CN-2,simrcs-51xxxgmail.com
+CS-52,Nikhil Jaiswal,CN-2,nikhcs-52xxxgmail.com
+CS-53,Sunita Bhardwaj,CN-2,sunics-53xxxgmail.com
+CS-54,Karan Patel,CN-2,karacs-54xxxgmail.com
+CS-55,Shalini Verma,CN-2,shalcs-55xxxgmail.com
+CS-56,Deepak Soni,CN-2,deepcs-56xxxgmail.com
+CS-57,Kavita Pandey,CN-2,kavics-57xxxgmail.com
+CS-58,Gaurav Malhotra,CN-2,gaurcs-58xxxgmail.com
+CS-59,Sheetal Sharma,CN-2,sheecs-59xxxgmail.com
+CS-60,Pradeep Joshi,CN-2,pradcs-60xxxgmail.com
+CS-61,Aarav Kumar,CN-2,aaracs-61xxxgmail.com
+CS-62,Aditya Sharma,CN-2,aditcs-62xxxgmail.com
+CS-63,Vikram Singh,CN-2,vikrcs-63xxxgmail.com
+CS-64,Ananya Verma,CN-2,anancs-64xxxgmail.com
+CS-65,Rahul Reddy,CN-2,rahucs-65xxxgmail.com
+CS-66,Sanya Joshi,CN-2,sanycs-66xxxgmail.com
+CS-67,Rohan Mehta,CN-2,rohacs-67xxxgmail.com
+CS-68,Manish Agarwal,CN-2,manics-68xxxgmail.com
+CS-69,Liam Brown,CN-3,liamcs-69xxxgmail.com
+CS-70,Emily Johnson,CN-3,emilcs-70xxxgmail.com
+CS-71,Noah Williams,CN-3,noahcs-71xxxgmail.com
+CS-72,Sophia Smith,CN-3,sophcs-72xxxgmail.com
+CS-73,Benjamin Davis,CN-3,benjcs-73xxxgmail.com
+CS-74,Ava Miller,CN-3,ava cs-74xxxgmail.com
+CS-75,Daniel Wilson,CN-3,danics-75xxxgmail.com
+CS-76,Isabella Taylor,CN-3,isabcs-76xxxgmail.com
+CS-77,Oliver Anderson,CN-3,olivcs-77xxxgmail.com
+CS-78,Charlotte Moore,CN-3,charcs-78xxxgmail.com
+CS-79,Jack Thomas,CN-3,jackcs-79xxxgmail.com
+CS-80,Grace Lee,CN-3,graccs-80xxxgmail.com
+CS-81,Lucas Harris,CN-3,lucacs-81xxxgmail.com
+CS-82,Ella Young,CN-3,ellacs-82xxxgmail.com
+CS-83,Max Robinson,CN-3,max cs-83xxxgmail.com
+CS-84,John Davis,CN-4,johncs-84xxxgmail.com
+CS-85,Emma Wilson,CN-4,emmacs-85xxxgmail.com
+CS-86,David Clark,CN-4,davics-86xxxgmail.com
+CS-87,Olivia Taylor,CN-4,olivcs-87xxxgmail.com
+CS-88,James Evans,CN-4,jamecs-88xxxgmail.com
+CS-89,William Harris,CN-4,willcs-89xxxgmail.com
+CS-90,Charlotte Clark,CN-4,charcs-90xxxgmail.com
+CS-91,George Walker,CN-4,georcs-91xxxgmail.com
+CS-92,Emma Green,CN-4,emmacs-92xxxgmail.com
+CS-93,Daniel King,CN-4,danics-93xxxgmail.com
+CS-94,Olivia Hall,CN-4,olivcs-94xxxgmail.com
+CS-95,James Scott,CN-4,jamecs-95xxxgmail.com
+CS-96,Lucy Turner,CN-4,lucycs-96xxxgmail.com
+CS-97,Jack Lewis,CN-4,jackcs-97xxxgmail.com
+CS-98,Amelia Evans,CN-4,amelcs-98xxxgmail.com
+CS-99,Michael Smith,CN-5,michcs-99xxxgmail.com
+CS-100,Sarah Botha,CN-5,saracs-100xxxgmail.com
+CS-101,David Moyo,CN-5,davics-101xxxgmail.com
+CS-102,Rachel Van der Merwe,CN-5,rachcs-102xxxgmail.com
+CS-103,Andrew Patel,CN-5,andrcs-103xxxgmail.com
+CS-104,Hiroshi Tanaka,CN-6,hirocs-104xxxgmail.com
+CS-105,Akiko Suzuki,CN-6,akikcs-105xxxgmail.com
+CS-106,Yuki Nakamura,CN-6,yukics-106xxxgmail.com
+CS-107,Mei Takahashi,CN-6,mei cs-107xxxgmail.com
+CS-108,Koji Sato,CN-6,kojics-108xxxgmail.com
+CS-109,Thomas MŸller,CN-7,thomcs-109xxxgmail.com
+CS-110,Anna Schmidt,CN-7,annacs-110xxxgmail.com
+CS-111,Jan Bauer,CN-7,jan cs-111xxxgmail.com
+CS-112,Sabine Wagner,CN-7,sabics-112xxxgmail.com
+CS-113,Lukas Schneider,CN-7,lukacs-113xxxgmail.com
+CS-114,Li Wei,CN-8,li wcs-114xxxgmail.com
+CS-115,Zhang Min,CN-8,zhancs-115xxxgmail.com
+CS-116,Wang Yi,CN-8,wangcs-116xxxgmail.com
+CS-117,Liu Qian,CN-8,liu cs-117xxxgmail.com
+CS-118,Chen Wei,CN-8,chencs-118xxxgmail.com
+CS-119,Li Jie,CN-8,li jcs-119xxxgmail.com
+CS-120,Zhang Wei,CN-8,zhancs-120xxxgmail.com
+CS-121,Wang Feng,CN-8,wangcs-121xxxgmail.com
+CS-122,Chen Lian,CN-8,chencs-122xxxgmail.com
+CS-123,Liu Yan,CN-8,liu cs-123xxxgmail.com
+CS-124,Xu Jun,CN-8,xu jcs-124xxxgmail.com
+CS-125,Li Mei,CN-8,li mcs-125xxxgmail.com
+CS-126,Zhou Rong,CN-8,zhoucs-126xxxgmail.com
+CS-127,Yang Zhi,CN-8,yangcs-127xxxgmail.com
+CS-128,Wu Bo,CN-8,wu bcs-128xxxgmail.com
+CS-129,Jo‹o Silva,CN-9,jo‹ocs-129xxxgmail.com
+CS-130,Maria Oliveira,CN-9,marics-130xxxgmail.com
+CS-131,Carlos Santos,CN-9,carlcs-131xxxgmail.com
+CS-132,Ana Costa,CN-9,ana cs-132xxxgmail.com
+CS-133,Pedro Souza,CN-9,pedrcs-133xxxgmail.com
+CS-134,James Williams,CN-10,jamecs-134xxxgmail.com
+CS-135,Sarah Jones,CN-10,saracs-135xxxgmail.com
+CS-136,William Brown,CN-10,willcs-136xxxgmail.com
+CS-137,Olivia Smith,CN-10,olivcs-137xxxgmail.com
+CS-138,Liam Johnson,CN-10,liamcs-138xxxgmail.com
+CS-139,Jacob Martin,CN-10,jacocs-139xxxgmail.com
+CS-140,Mia Thompson,CN-10,mia cs-140xxxgmail.com
+CS-141,William Wilson,CN-10,willcs-141xxxgmail.com
+CS-142,Zoe Clark,CN-10,zoe cs-142xxxgmail.com
+CS-143,Ethan White,CN-10,ethacs-143xxxgmail.com
+CS-144,Shalini Verma,null,na
+CS-145,Deepak Soni,null,na
+CS-146,Kavita Pandey,null,na
+CS-147,Gaurav Malhotra,null,na
+CS-148,Sheetal Sharma,null,na
+CS-149,Pradeep Joshi,null,na
+CS-150,Aarav Kumar,null,na
+CS-151,Aditya Sharma,null,na
+CS-152,Vikram Singh,null,na
+CS-153,Ananya Verma,null,na
+CS-154,Rahul Reddy,null,na
+CS-155,Sanya Joshi,null,na
+CS-156,Rohan Mehta,null,na
+CS-157,Manish Agarwal,null,na
+CS-158,Liam Brown,null,na
+CS-159,Emily Johnson,null,na
+CS-160,Noah Williams,null,na
