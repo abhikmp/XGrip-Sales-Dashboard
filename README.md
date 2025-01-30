@@ -1,6 +1,6 @@
 ---
 
-# **XGRIP Sales and Profit Analytics Dashboard**  
+# **XGRIP Sales and Profit Analytics [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYwYThjMzQtODQ5NS00NTEyLWFiOWUtZmY1ZGExYzUwNGY4IiwidCI6ImY5ODg0Yzc0LTBhNTUtNDA0OC05ZTQxLWFjMzY1YTg1OWMyYyJ9)**  
 
 
 ---
