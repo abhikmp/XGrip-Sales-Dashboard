@@ -59,10 +59,7 @@ The goal of this project was to develop an interactive, user-friendly analytics 
   - Revenue, profit, and profit margin.  
   - Target sales based on last month's performance.  
   - YoY growth and sales trends.  
-
-### **6. Automation and Security**  
-- Implemented scheduled data refresh via Power BI Gateway to handle new data streams automatically.  
-- Configured Row-Level Security (RLS) to restrict data access based on user roles.  
+ 
 
 ---
 
